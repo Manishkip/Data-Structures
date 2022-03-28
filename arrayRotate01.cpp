@@ -31,3 +31,6 @@ int main() {
   printArr(arr,n);
   
 }
+
+//Time Complexity: O(n * d)
+//Auxiliary Space: O(1)
